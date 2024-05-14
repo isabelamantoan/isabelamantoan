@@ -2,7 +2,7 @@
 
 Meu nome é Isabela Mantoan
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -12,3 +12,5 @@ Meu nome é Isabela Mantoan
 alurastartestudante@email.com
 
 @alurastartestudante
+
+![](https://media1.tenor.com/m/r3NnKYyYecMAAAAC/leatylrs-friends.gif)
